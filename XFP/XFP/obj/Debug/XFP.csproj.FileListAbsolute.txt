@@ -1,0 +1,12 @@
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\bin\Debug\XFP.dll
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\bin\Debug\XFP.pdb
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\bin\Debug\SQLite.Net.dll
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\obj\Debug\XFP.dll
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\obj\Debug\XFP.pdb
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\obj\Debug\HomePage.xaml.g.cs
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\obj\Debug\EditPage.xaml.g.cs
+c:\users\5h4ck0x\documents\visual studio 2013\Projects\XFP\XFP\XFP\obj\Debug\XFP.csprojResolveAssemblyReference.cache

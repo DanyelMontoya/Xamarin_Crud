@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFP.HomePage">
+  <ScrollView>
+    <StackLayout Padding="10" Spacing="10">
+      <Label Text="Empleados"
+             Font="24"
+             HorizontalOptions="Center"
+             TextColor="White"/>
+      <Entry x:Name="nombresEntry"
+             Placeholder="Nombres" 
+             TextColor="White"/>
+      <Entry x:Name="apellidosEntry"
+             Placeholder="Apellidos"
+             TextColor="White"/>
+      <Entry x:Name="salarioEntry"
+             Placeholder="Salario"
+             Keyboard="Numeric"
+             TextColor="White"/>
+      <StackLayout Orientation="Horizontal">
+        <Label Text="Fecha:"
+               Font="14"
+               VerticalOptions="Center"
+               TextColor="White" />
+        <DatePicker x:Name="fechaContratoDatePicker"/>
+        <Label Text="Activo"
+               Font="14"
+               VerticalOptions="Center"
+               TextColor="White"
+               HorizontalOptions="EndAndExpand"/>
+        <Switch x:Name="activoSwitch"
+                IsToggled="True"
+                HorizontalOptions="End"/>
+      </StackLayout>
+      <Button x:Name="nuevoButton"
+              Text="Nuevo"
+              HorizontalOptions="Center"
+              BackgroundColor="Yellow"
+              TextColor="Black"/>
+      <ListView x:Name="datosListView" />
+    </StackLayout>
+  </ScrollView>
+</ContentPage>
